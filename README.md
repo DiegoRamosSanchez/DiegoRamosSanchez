@@ -79,10 +79,10 @@ Hola soy **Diego Alexander**, un apasionado por la **Tecnología** y la **Progra
 </br>
 
 ## Redes Sociales 🔎📧💬📫🔍
-<a href="mailto:diego.ramos@vallegrande.edu.pe" target="_blank">
+<a href="mailto:diegoramossanchez2004@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-<a href="https://github.com/AlexanderRamosSanchez" target="_blank">
+<a href="https://github.com/DiegoRamosSanchez" target="_blank">
 <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" target="_blank">
 </a>
 <a href="https://www.linkedin.com/in/diego-alexander-ramos-sanchez-0a988b253/" target="_blank">
@@ -94,30 +94,3 @@ Hola soy **Diego Alexander**, un apasionado por la **Tecnología** y la **Progra
 
 ## Total de Visitas en el Perfil 🔍👨‍💻✔
 <img src="https://profile-counter.glitch.me/DiegoRamosSanchez/count.svg"/>
-
-
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href="https://www.youtube.com/channel/UCFSWYjF-HqhIvKnW0pmp9Tg" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-</a>
-
-## Total de Visitas en el Perfil 🔍👨‍💻✔
-<img src## Bienvenido a mi GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
- 
-
-
-<!--
-**DiegoRamosSanchez/DiegoRamosSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
