@@ -93,9 +93,9 @@ Hola soy **Diego Alexander**, un apasionado por la **Tecnología** y la **Progra
 </a>
 
 ## Total de Visitas en el Perfil 🔍👨‍💻✔
-<img src="https://profile-counter.glitch.me/AlexanderRamosSanchez/count.svg"/>
+<img src="https://profile-counter.glitch.me/DiegoRamosSanchez/count.svg"/>
 
-"_blank">
+
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 <a href="https://www.youtube.com/channel/UCFSWYjF-HqhIvKnW0pmp9Tg" target="_blank">
