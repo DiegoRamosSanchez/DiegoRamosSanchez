@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![descarga (1)](https://github.com/user-attachments/assets/cab6c8de-e3b5-4125-8db2-1114d745b661)
+<img src="https://github.com/user-attachments/assets/cab6c8de-e3b5-4125-8db2-1114d745b661" width="300px" height="200px" alt="Imagen de bienvenida">
  
 </div>
 
