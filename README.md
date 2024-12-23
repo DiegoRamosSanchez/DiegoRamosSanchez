@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/cab6c8de-e3b5-4125-8db2-1114d745b661" width="300px" height="200px" alt="Imagen de bienvenida">
+<img src="https://github.com/user-attachments/assets/cab6c8de-e3b5-4125-8db2-1114d745b661" width="700px" height="500px" alt="Imagen de bienvenida">
  
 </div>
 
