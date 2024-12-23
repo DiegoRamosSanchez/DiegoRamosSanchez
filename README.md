@@ -1,10 +1,12 @@
 ## Bienvenido a mi GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-<div style="background: linear-gradient(135deg, #6a11cb, #2575fc); padding: 20px; text-align: center; border-radius: 10px; color: white; font-family: Arial, sans-serif;">
-    <h1 style="font-size: 48px; margin: 0;">¡Bienvenido a mi GitHub!</h1>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="wave emoji">
-    <p style="font-size: 24px; margin-top: 10px;">Hola soy <strong>Diego Alexander</strong>, un apasionado por la <strong>Tecnología</strong> y la <strong>Programación</strong> que siempre anda en constante investigación y mejora. 😎👨‍💻</p>
+<div align="center">
+
+![descarga (1)](https://github.com/user-attachments/assets/cab6c8de-e3b5-4125-8db2-1114d745b661)
+ 
 </div>
+
+Hola soy **Diego Alexander**, un apasionado por la **Tecnología** y la **Programación** que siempre anda en constante investigación y mejora. 😎👨‍💻
 
 </br>
 
