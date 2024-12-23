@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/cab6c8de-e3b5-4125-8db2-1114d745b661" width="700px" height="500px" alt="Imagen de bienvenida">
- 
+<img src="https://github.com/user-attachments/assets/59e861c9-4c7a-4a4e-92e0-27133510e354" width="700px" height="500px" alt="Imagen de bienvenida">
+
 </div>
 
 Hola soy **Diego Alexander**, un apasionado por la **Tecnología** y la **Programación** que siempre anda en constante investigación y mejora. 😎👨‍💻
