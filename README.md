@@ -59,11 +59,10 @@ Hola soy **Diego Alexander**, un apasionado por la **Tecnología** y la **Progra
 <img src="https://github-profile-trophy.vercel.app/api/?username=DiegoRamosSanchez&locale=es" alt="DiegoRamosSanchez"/>
 
 </br>
-
+<!--
 ## Lenguajes más Usados ☕✨📑
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRamosSanchez&locale=es&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=default" alt="DiegoRamosSanchez" style="width: 500px;"/>
-
-</br>
+-->
 
 ## Estadísticas de GitHub 📊📈📊
 <img src="https://github-readme-stats.vercel.app/api?username=DiegoRamosSanchez&show_icons=true&locale=es&role=OWNER,COLLABORATOR&theme=default" alt="DiegoRamosSanchez" style="width: 500px;"/>
